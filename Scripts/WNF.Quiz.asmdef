@@ -1,3 +1,20 @@
 {
-	"name": "WNF.Quiz"
+    "name": "WNF.Quiz",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.unityanalytics",
+            "expression": "",
+            "define": ""
+        }
+    ],
+    "noEngineReferences": false
 }
