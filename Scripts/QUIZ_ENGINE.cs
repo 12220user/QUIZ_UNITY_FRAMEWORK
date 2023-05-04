@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 namespace WNF.Quiz{
-    public class QuizEngine : MonoBehaviour
+    public class QUIZ_ENGINE : MonoBehaviour
     {
         // Start is called before the first frame update
         void Start()
