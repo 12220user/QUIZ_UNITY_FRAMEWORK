@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
 namespace WNF.Quiz{
@@ -8,13 +9,10 @@ namespace WNF.Quiz{
         // Start is called before the first frame update
         void Start()
         {
-            
+            var asset = AssetDatabase.LoadAssetAtPath<GameObject>("Packages/com.12220.quiz_framework/Prefubs/QuizFrame.prefab");
+            Instantiate(asset);
         }
 
-        // Update is called once per frame
-        void Update()
-        {
-            
-        }
+        
     }
 }
