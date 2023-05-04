@@ -1,0 +1,20 @@
+{
+  "name": "com.12220.quiz_framework",
+  "version": "0.0.1",
+  "displayName": "Quiz framework",
+  "description": "Made any quiz game in unity",
+  "unity": "2020.3",
+  "unityRelease": "44f1",
+  "documentationUrl": "https://github.com/12220user/QUIZ_UNITY_FRAMEWORKn",
+  "changelogUrl": "https://github.com/12220user/QUIZ_UNITY_FRAMEWORK",
+  "licensesUrl": "https://github.com/12220user/QUIZ_UNITY_FRAMEWORK",
+  "dependencies": {
+  },
+  "keywords": [
+  ],
+  "author": {
+    "name": "12220",
+    "email": "supermansec@gmail.com",
+    "url": "https://github.com/12220user/QUIZ_UNITY_FRAMEWORK"
+  }
+}
